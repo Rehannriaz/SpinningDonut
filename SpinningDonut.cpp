@@ -1,6 +1,4 @@
 /**
-    @title CS112 Assignment # 3
-    @file A3_2021189_2021438.cpp
     @author Hammad Anwer 2021189, Muhammad Rehan 2021438
 
     @version 0.1
